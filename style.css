@@ -1,0 +1,19 @@
+/*
+    Project: Portfolio.
+    Data: July 03, 2023.
+    Author: Engineer. Howard Fernando Del Angel Leija.
+*/
+
+h1,
+h2,
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+body {
+    background-image: url(img/HD-wallpaper-binary-code-abstract-landscape-loveview-nature.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
